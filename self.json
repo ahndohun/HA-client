@@ -1,0 +1,33 @@
+{
+  "client": {
+    "basic": {
+      "setting": 2,
+      "design": 1,
+      "readme": 0,
+      "render_01": 2,
+      "render_02": 2,
+      "router": 2,
+      "fetch": 1,
+      "cond_render": 2,
+      "css": 1,
+      "git": 1
+    }
+  },
+  "server": {
+    "basic": {
+      "setting": 0,
+      "run": 0,
+      "readme": 0,
+      "secret": 0,
+      "controller": 0,
+      "router": 0,
+      "model": 0,
+      "docs": 0,
+      "error_server": 0,
+      "data": 0,
+      "db": 0,
+      "env": 0,
+      "git": 0
+    }
+  }
+}
